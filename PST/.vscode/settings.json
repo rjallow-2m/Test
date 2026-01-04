@@ -1,0 +1,7 @@
+{
+    "gitlens.advanced.caching.gitPath": false,
+    "git.enabled": true,
+    "git.path": null,
+    "git.autoRepositoryDetection": "subFoldersOnly",
+    "git.openRepositoryInParentFolders": "never"
+}
