@@ -1,0 +1,19 @@
+list_name,name,label
+gender,male,Male
+gender,female,Female
+gender,other,Other
+gender,prefer_not_say,Prefer not to say
+marital_status,single,Single
+marital_status,married,Married
+marital_status,divorced,Divorced
+marital_status,widowed,Widowed
+employment_type,full_time,Full-time
+employment_type,part_time,Part-time
+employment_type,contract,Contract
+employment_type,intern,Intern
+education_level,high_school,High School
+education_level,associate,Associate Degree
+education_level,bachelor,Bachelor's Degree
+education_level,master,Master's Degree
+education_level,doctorate,Doctorate/PhD
+education_level,other,Other
